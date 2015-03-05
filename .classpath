@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Wk6-7"/>
 	<classpathentry kind="src" path="WK2"/>
 	<classpathentry kind="src" path="WK3"/>
 	<classpathentry kind="src" path="Wk4"/>
+	<classpathentry kind="src" path="HashFunction"/>
+	<classpathentry kind="src" path="Graph"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
