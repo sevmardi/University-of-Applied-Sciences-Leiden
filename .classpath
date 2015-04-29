@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="HashFunction"/>
 	<classpathentry kind="src" path="BubbleSort"/>
+	<classpathentry kind="src" path="Prime_Factores"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
