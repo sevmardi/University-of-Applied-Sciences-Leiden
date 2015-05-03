@@ -5,5 +5,8 @@
 	<classpathentry kind="src" path="BubbleSort"/>
 	<classpathentry kind="src" path="Prime_Factores"/>
 	<classpathentry kind="src" path="Armstrong_Number"/>
+	<classpathentry kind="src" path="StrongNumber"/>
+	<classpathentry kind="src" path="ReverseNumber"/>
+	<classpathentry kind="src" path="SumOfDigitsOfANumber"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
