@@ -8,5 +8,9 @@
 	<classpathentry kind="src" path="StrongNumber"/>
 	<classpathentry kind="src" path="ReverseNumber"/>
 	<classpathentry kind="src" path="SumOfDigitsOfANumber"/>
+	<classpathentry kind="src" path="FactorialOfANumber"/>
+	<classpathentry kind="src" path="Anagram"/>
+	<classpathentry kind="src" path="TempConversion"/>
+	<classpathentry kind="src" path="JavaStringToCharacter"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
