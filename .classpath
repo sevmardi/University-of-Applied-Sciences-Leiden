@@ -13,5 +13,6 @@
 	<classpathentry kind="src" path="TempConversion"/>
 	<classpathentry kind="src" path="JavaStringToCharacter"/>
 	<classpathentry kind="src" path="Ransom"/>
+	<classpathentry kind="src" path="StringBuilderExample"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
