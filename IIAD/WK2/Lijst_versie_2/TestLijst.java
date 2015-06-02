@@ -1,4 +1,4 @@
-package Lijst_versie_2;
+package WK2.Lijst_versie_2;
 public class TestLijst
 {
 	

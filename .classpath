@@ -14,5 +14,6 @@
 	<classpathentry kind="src" path="JavaStringToCharacter"/>
 	<classpathentry kind="src" path="Ransom"/>
 	<classpathentry kind="src" path="StringBuilderExample"/>
+	<classpathentry kind="src" path="IIAD"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

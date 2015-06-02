@@ -1,5 +1,4 @@
-package Lijst_versie_2;
-
+package WK2.Lijst_versie_1;
 public class Werknemer
 {
   private String naam;

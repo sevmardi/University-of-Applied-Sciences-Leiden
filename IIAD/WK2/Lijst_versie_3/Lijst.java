@@ -1,4 +1,4 @@
-package Lijst_versie_3;
+package WK2.Lijst_versie_3;
 import java.util.*;
 
 public class Lijst 
