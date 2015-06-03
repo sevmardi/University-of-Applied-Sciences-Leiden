@@ -1,4 +1,4 @@
-package knoop;
+package week6.knoop;
 
 // Klasse voor een knoop voor een binaire boom
 public class BKnoop<E>

@@ -1,4 +1,4 @@
-package lineaire_lijst.lineaire_lijst_versie_1;
+package week2.lineaire_lijst.lineaire_lijst_versie_1;
 
 public class Lijst 
 {

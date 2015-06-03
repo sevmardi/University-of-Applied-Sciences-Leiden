@@ -1,4 +1,4 @@
-package rijbewerkingen;
+package week1.rijbewerkingen;
 
 public class ZoekenSorteren 
 {

@@ -1,4 +1,4 @@
-package queue;
+package week5.queue;
 
 import java.util.*;
 

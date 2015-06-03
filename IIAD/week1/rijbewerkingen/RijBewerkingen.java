@@ -1,4 +1,4 @@
-package rijbewerkingen;
+package week1.rijbewerkingen;
 
 public class RijBewerkingen
 {
@@ -68,7 +68,7 @@ public class RijBewerkingen
 				   char temp = rij[loper];
 				   rij[loper] = rij[loper - 1];
 				   rij[loper - 1] = temp;
-					// verwissel rij[loper – 1] en rij [loper]
+					// verwissel rij[loper ï¿½ 1] en rij [loper]
 				}
 			}
 		}

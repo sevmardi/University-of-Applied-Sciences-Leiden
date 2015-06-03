@@ -1,4 +1,4 @@
-package knoop;
+package week6.knoop;
 
 import java.util.*;
 

@@ -1,6 +1,5 @@
-package knoop;
+package week6.knoop;
 
-import queue.Lijst;
 
 public class KnoopQueue implements Queue
 {

@@ -1,4 +1,4 @@
-package knoop;
+package week6.knoop;
 
 public interface Queue 
 {

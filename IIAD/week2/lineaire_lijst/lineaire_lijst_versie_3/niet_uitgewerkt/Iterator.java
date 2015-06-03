@@ -1,4 +1,4 @@
-package lineaire_lijst.lineaire_lijst_versie_3.niet_uitgewerkt;
+package week2.lineaire_lijst.lineaire_lijst_versie_3.niet_uitgewerkt;
 
 public interface Iterator 
 {
