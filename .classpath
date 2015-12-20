@@ -15,5 +15,6 @@
 	<classpathentry kind="src" path="Ransom"/>
 	<classpathentry kind="src" path="StringBuilderExample"/>
 	<classpathentry kind="src" path="IIAD"/>
+	<classpathentry kind="src" path="TimeConversion"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
